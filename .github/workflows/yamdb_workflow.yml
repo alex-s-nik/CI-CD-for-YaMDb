@@ -45,4 +45,4 @@ jobs:
           push: true
           tags: alexsnik/infra_web:latest
           file: api_yamdb/Dockerfile
-          context: ./api_yanmdb
+          context: ./api_yamdb
