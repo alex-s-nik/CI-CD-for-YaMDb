@@ -43,4 +43,4 @@ jobs:
         uses: docker/build-push-action@v2 
         with:
           push: true
-          tags: alexsnik/infra_web:latest\
+          tags: alexsnik/infra_web:latest
